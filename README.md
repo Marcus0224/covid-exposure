@@ -15,7 +15,7 @@ Users will be able to see real time data over a period of time of how and where 
 * API
 
 # Website 
-https://zk229.github.io/covid-exposure/
+https://marcus0224.github.io/covid-exposure/
 
 
 # Screenshots 
